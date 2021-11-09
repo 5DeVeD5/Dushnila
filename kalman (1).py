@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 12 17:05:33 2021
-
-@author: mishagin.k
-"""
 import numpy as np
 from scipy import linalg
 import pylab
